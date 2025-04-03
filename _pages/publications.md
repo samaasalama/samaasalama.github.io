@@ -14,7 +14,6 @@ I am interested in formal semantics and morphosyntax through a fieldwork lens. I
 </ul>
 
 <h2>Conference presentations</h2>
-*[Markdown Guide](https://www.markdownguide.org)*
 
 (2024). Epistemic Authority in Imbabura Kichwa: Direct Evidence isn’t Always it!. *[SULA](https://13sulaindefiniteness.ufsc.br/programacao-program/)* (Semantics of Underrepresented Languages of The Americas), Florianopolis, Brazil [talk]
 
@@ -22,7 +21,7 @@ I am interested in formal semantics and morphosyntax through a fieldwork lens. I
 *[International Congress for the Study of Child Language](https://iascl2024.com/program/schedule/)* , Prague, Czechia [poster]
 
 (2024). Epistemic Authority in Imbabura Kichwa. TOM16 (Toronto-Ottawa-Montreal Semantics Workshop ),
-Toronto, Canada
+Toronto, Canada [talk]
 
 (2024). (with Margarethe McDonald & Tania Zamuner) Developmental changes in phonological and semantic competition during spoken word recognition.
 *[ASA (Acoustic Society of America)](https://pubs.aip.org/asa/jasa/article/155/3_Supplement/A80/3301830/Developmental-changes-in-phonological-and-semantic)*, Ottawa, Canada [poster]
