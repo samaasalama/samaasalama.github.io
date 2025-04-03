@@ -1,13 +1,13 @@
 ---
 layout: single
-title: "Publications"
-permalink: /publications/
+title: "Research"
+permalink: /Research/
 author_profile: true
 
 ---
 
-<h2>Journal articles</h2>
-Last, first. Year. Article title. <em>Journal name</em> 1(2).
-<h2>Proceedings papers</h2>
+<h2>Research interests</h2>
 
-<h2>Manuscripts</h2>
+<h2>Conference presentations</h2>
+
+<h2>Presentations</h2>
