@@ -10,4 +10,4 @@ author_profile: true
 
 <h2>Conference presentations</h2>
 
-<h2>Presentations</h2>
+<h2>Publications</h2>
