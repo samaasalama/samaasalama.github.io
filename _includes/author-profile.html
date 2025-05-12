@@ -47,14 +47,25 @@
         </li>
       {% endif %}
 
-      <!---      {% if author.email %}        <li>          <a href="mailto:{{ author.email }}" rel="me" class="u-email">            <meta itemprop="email" content="{{ author.email }}" />            <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i><span class="label">{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</span>          </a>        </li>      {% endif %}--->     
+      <!---      
+      {% if author.email %}       
+            <li>          
+          <a href="mailto:{{ author.email }}" rel="me" class="u-email">            
+          <meta itemprop="email" content="{{ author.email }}" />            
+        <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i><span class="label">{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</span>          
+            </a>       
+            </li>      
+          {% endif %}--->     
       {% if author.email %}       
       <div class="author__email" itemprop="email address">       
-        {{ author.email | markdownify }}      </div>      {% endif %}      {% if author.keybase %}        <li>          <a href="https://keybase.io/{{ author.keybase }}" itemprop="sameAs" rel="nofollow noopener noreferrer me">
-      {% if author.keybase %}
-        <li>
-          <a href="https://keybase.io/{{ author.keybase }}" itemprop="sameAs" rel="nofollow noopener noreferrer me">
-            <i class="fab fa-fw fa-keybase" aria-hidden="true"></i><span class="label">Keybase</span>
+        {{ author.email | markdownify }}     
+          </div>      
+        {% endif %}      
+        {% if author.keybase %}       
+          <li>          
+            <a href="https://keybase.io/{{ author.keybase }}" itemprop="sameAs" 
+              rel="nofollow noopener noreferrer me">
+    <i class="fab fa-fw fa-keybase" aria-hidden="true"></i><span class="label">Keybase</span>
           </a>
         </li>
       {% endif %}
