@@ -7,12 +7,13 @@ author_profile: true
 ---
 
 <h2>Research interests</h2>
-I am interested in formal semantics and morphosyntax through a fieldwork lens. I have focused primarily on evidentiality, discourse particles, and pronominal/clausal marking, but am interested more generally in questions surrounding common ground management and epistemicity. My work has primarily been on Imbabura Kichwa (Quechua II), and more recently on Egyptian Arabic (Afro-Asiatic), Sereer (Niger-Congo), and Pulaar (Niger-Congo).
+I am interested in formal semantics, syntax, and their interfaces. Specifically I work on the left edge of clauses (C-layer) and nominals (D-layer), both on their syntactic struture and semantic composition. My work has primarily been based off of data I collect doing fieldwork.
+I have worked on Imbabura Kichwa (Quechua II), and Sereer (Niger-Congo). Most recently I have begun work on Pulaar (Niger-Congo) and Egyptian Arabic (Afro-Asiatic).
 <ul>
-  <li>Marking epistemic authority using discourse operators in Imbabura Kichwa</li>
   <li>The relationship between clausal marking and the syntax of the left-periphery in Sereer</li>
   <li>Definiteness and plurality</li>
   <li>Discourse markers <em>aslan</em> and <em>hatta</em> in Egyptian Arabic</li>
+  <li>Marking epistemic authority using discourse operators in Imbabura Kichwa</li>
 </ul>
 
 <h2>Conference presentations</h2>
